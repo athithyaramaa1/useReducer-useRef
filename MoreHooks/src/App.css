@@ -1,0 +1,26 @@
+.container {
+    margin: 20px;
+  }
+  
+  .item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .toggleBtn {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .toggleBtn:hover {
+    background-color: #45a049;
+  }
+  
+  .buttonContainer {
+    margin-top: 20px;
+  }
+  
